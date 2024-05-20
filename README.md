@@ -1,6 +1,5 @@
 # Hi there, I am Willis Dyson. Welcome to my GitHub page! 👋
 
-![image](https://github.com/WillisDyson/WillisDyson/assets/124936691/756f27bb-fef4-4720-9951-0655902bbbb7)
 
 _
 
