@@ -23,9 +23,7 @@ _
 
 ## My main skills 🧠
 
-* React
-* TypeScript*
-  * *Limited experience, but currently learning
+* React/Next.js/TypeScript
 * HTML, CSS & JS
 * SASS
 * W3C Web Accessibility
