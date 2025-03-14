@@ -21,6 +21,7 @@ _
 * BEM
 * UX/UI
 * Adobe Creative Suite
+* React.js
  
 _
 
