@@ -27,5 +27,5 @@ _
 
 ## My website and socials 💬
 
-* Website: https://willisdyson.pages.dev/
+* Website: https://willisdyson.dev/
 * Linkedin: https://www.linkedin.com/in/willis-dyson/
