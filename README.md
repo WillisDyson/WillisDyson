@@ -16,12 +16,12 @@ _
 
 * HTML, CSS & JS
 * SASS
+* React.js, TypeScript, Tailwind
 * W3C Web Accessibility
 * Version control (GIT)
 * BEM
 * UX/UI
 * Adobe Creative Suite
-* React.js
  
 _
 
