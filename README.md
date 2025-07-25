@@ -16,7 +16,7 @@ _
 
 * HTML, CSS & JS
 * SASS
-* React.js, TypeScript, Tailwind
+* React.js, TypeScript, Tailwind, Vue.js (Basic)
 * W3C Web Accessibility
 * Version control (GIT)
 * BEM
