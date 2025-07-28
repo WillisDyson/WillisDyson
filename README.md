@@ -1,6 +1,4 @@
-# Hi there, I am Willis Dyson. Welcome to my GitHub page! 👋
-
-![Willis Dyson. Front End UI Developer & Web Accessibility Lead. 6+ years experience.]([http://url/to/img.png](https://willisdyson.dev/images/github-1.png))
+# ![Willis Dyson. Front End UI Developer & Web Accessibility Lead. 6+ years experience.](https://willisdyson.dev/images/github-1.png)
 _
 
 ## A bit about me 🤔
