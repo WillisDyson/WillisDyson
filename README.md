@@ -18,7 +18,7 @@ _
 ## My main skills 🧠
 
 * HTML, CSS (SASS) & JS
-* React.js, TypeScript, Tailwind, Vue.js (Basic)
+* React.js, TypeScript, Tailwind, Vue.js
 * W3C Web Accessibility
 * Version control (GIT)
 * BEM
